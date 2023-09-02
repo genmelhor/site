@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://example.com/tags/email/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© Will Faught</copyright>
+        
+        <description>email</description>
+        
+            <language>en</language>
+        
+        
+        <link>https://example.com/tags/email/</link>
+        
+        
+            <title>email</title>
+        
+        
+        
+            <item>
+                
+                    
+
+                    
+                        
+                    
+
+                    <author>Will Faught</author>
+                
+                
+                    <description><![CDATA[<p>Paige provides a <code>paige/email</code> shortcode that hides e-mail addresses from robots.</p>
+<h2 id="address-and-text-parameters">Address and text parameters</h2>
+<p>Code:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go-html-template" data-lang="go-html-template"><span class="line"><span class="cl"><span class="cp">{{</span><span class="err">&lt;</span><span class="w"> </span><span class="nx">paige</span><span class="err">/</span><span class="nx">email</span><span class="w"> </span><span class="nx">address</span><span class="o">=</span><span class="s">&#34;example@example.com&#34;</span><span class="w"> </span><span class="nx">text</span><span class="o">=</span><span class="s">&#34;E-mail me&#34;</span><span class="w"> </span><span class="err">&gt;</span><span class="cp">}}</span>
+</span></span></code></pre></div><p>Result:</p>
+
+
+
+
+
+
+
+<a href="#" data-a="ZXhhbXBsZQ==" data-b="QA==" data-c="ZXhhbXBsZS5jb20=" onclick="this.href = 'mailto:' + atob(this.dataset.a) + atob(this.dataset.b) + atob(this.dataset.c)">E-mail me</a>]]></description>
+                
+                
+                    <guid>https://example.com/shortcodes/email/</guid>
+                    <link>https://example.com/shortcodes/email/</link>
+                
+                
+                
+                    <title>Email Shortcode</title>
+                
+            </item>
+        
+    </channel>
+</rss>

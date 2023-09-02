@@ -1,0 +1,56 @@
+---
+  title: "WEBSITE PROGFEIJAO UFV"
+author: "José Tiago Barroso Chagas"
+date: "2023-03-31"
+output: html_document
+---
+  ## R - Pré Requisitos
+```{r }
+install.packages("blogdown")
+library(blogdown)
+
+blogdown::install_hugo()
+#blogdown::
+library(usethis)
+install.packages("gh")
+install.packages("gitcreds")
+```
+
+## Configurando GitHub
+
+
+
+```{r }
+usethis::create_github_token()
+library(gitcreds)
+gitcreds_set()
+library(gh)
+gh_whoami()
+```
+
+
+## Criando Projeto Local no RStudio
+
+```{r }
+#usethis::create_project("WebSite ProgFeijaoUFV")
+use_git()
+getwd()
+```
+
+## Criando Repositório no GitHUb
+
+```{r}
+usethis::use_git()
+usethis::use_github()
+```
+#criar o site
+```{r}
+
+library(blogdown)
+blogdown::new_site(".", theme ="willfaught/paige" )
+blogdown::build_site()
+serve_site()
+getwd()
+
+```
+

@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://example.com/layouts/cloud/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© Will Faught</copyright>
+        
+        <description>Cloud Layout</description>
+        
+            <language>en</language>
+        
+        
+        <link>https://example.com/layouts/cloud/</link>
+        
+        
+            <title>Cloud Layout</title>
+        
+        
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/layouts/cloud/apple/</guid>
+                    <link>https://example.com/layouts/cloud/apple/</link>
+                
+                
+                
+                    <title>Apple</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/layouts/cloud/banana/</guid>
+                    <link>https://example.com/layouts/cloud/banana/</link>
+                
+                
+                
+                    <title>Banana</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                    <guid>https://example.com/layouts/cloud/cantaloupe/</guid>
+                    <link>https://example.com/layouts/cloud/cantaloupe/</link>
+                
+                
+                
+                    <title>Cantaloupe</title>
+                
+            </item>
+        
+    </channel>
+</rss>
