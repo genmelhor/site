@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<!--
@@ -220,7 +220,7 @@ SOFTWARE.
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<!--
@@ -337,7 +337,7 @@ SOFTWARE.
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<!--
@@ -405,7 +405,7 @@ SOFTWARE.
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<!--
@@ -470,7 +470,7 @@ $$</p>]]></description>
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<!--
@@ -526,7 +526,7 @@ SOFTWARE.
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>This page has the following parameters:</p>
@@ -552,7 +552,7 @@ SOFTWARE.
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>This page has the following parameters:</p>
@@ -569,6 +569,34 @@ SOFTWARE.
                 
                 
                     <title>Complex Alert</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                    <description><![CDATA[<h1 id="coordenação--2023">Coordenação  2023</h1>
+<h2 id="coordenação-geral">Coordenação Geral</h2>
+<p><img src="images/geral-2023.jpg" alt="Coordenação Geral"></p>
+<h2 id="coordenação-financeira">Coordenação Financeira</h2>
+<p><img src="images/financeiro-2023.jpg" alt="Coordenação Financeira"></p>
+<h2 id="coordenção-de-rh">Coordenção de RH</h2>
+<p><img src="images/rh-2023.jpg" alt="Coordenação de RH"></p>
+<h2 id="coordenação-de-eventos">Coordenação de Eventos</h2>
+<p><img src="images/eventos-2023.jpg" alt="Coordenação de Eventos"></p>
+<h2 id="coordenação-de-divulgação">Coordenação de Divulgação</h2>
+<p><img src="images/divulgacao-2023.jpg" alt="Coordenação de Divulgação"></p>
+]]></description>
+                
+                
+                    <guid>https://genmelhor.github.io/site/content/2023-09-02-about-us/</guid>
+                    <link>https://genmelhor.github.io/site/content/2023-09-02-about-us/</link>
+                
+                
+                    <pubDate>Sat, 02 Sep 2023 00:00:00 -0700</pubDate>
+                
+                
+                    <title>About Us</title>
                 
             </item>
         

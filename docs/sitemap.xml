@@ -2,26 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genmelhor.github.io/site/content/markdown-syntax/</loc>
-  </url><url>
     <loc>https://genmelhor.github.io/site/customization/style/</loc>
     <lastmod>2023-01-01T00:00:00-08:00</lastmod>
   </url><url>
     <loc>https://genmelhor.github.io/site/layouts/cloud/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/content/rich-content/</loc>
-  </url><url>
     <loc>https://genmelhor.github.io/site/layouts/search/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/content/placeholder-text/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/content/math-typesetting/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/content/emoji-support/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/content/simple-alert/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/content/complex-alert/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/authors/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
@@ -83,7 +69,7 @@
     <loc>https://genmelhor.github.io/site/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genmelhor.github.io/site/tags/alerts/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/layouts/cloud/apple/</loc>
   </url><url>
@@ -97,17 +83,9 @@
   </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/code/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/categories/content/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/content/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/css/</loc>
-  </url><url>
     <loc>https://genmelhor.github.io/site/tags/email/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/email/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/emoji/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/figure/</loc>
   </url><url>
@@ -117,8 +95,6 @@
   </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/gallery/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/tags/html/</loc>
-  </url><url>
     <loc>https://genmelhor.github.io/site/tags/icon/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/icon/</loc>
@@ -127,17 +103,9 @@
   </url><url>
     <loc>https://genmelhor.github.io/site/tags/images/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/tags/katex/</loc>
-  </url><url>
     <loc>https://genmelhor.github.io/site/categories/layouts/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/layouts/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/markdown/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/math/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/privacy/</loc>
+    <loc>https://genmelhor.github.io/site/content/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/tags/quotations/</loc>
   </url><url>
@@ -149,15 +117,9 @@
   </url><url>
     <loc>https://genmelhor.github.io/site/tags/sections/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/tags/shortcodes/</loc>
-  </url><url>
     <loc>https://genmelhor.github.io/site/categories/shortcodes/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/text/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/typesetting/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/tags/videos/</loc>
   </url><url>

@@ -15,7 +15,7 @@
             <atom:link href="https://genmelhor.github.io/site/tags/figures/index.xml" rel="self" type="application/rss+xml"/>
         
         
-            <copyright>© Will Faught</copyright>
+            <copyright>© GenMelhor</copyright>
         
         <description>figures</description>
         
@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/code</code> shortcode for displaying code.</p>
@@ -285,7 +285,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/figure</code> shortcode for displaying content.</p>
@@ -1937,7 +1937,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/gallery</code> shortcode for displaying a list of images.</p>
@@ -19473,7 +19473,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/image</code> shortcode for displaying an image.</p>
@@ -22471,7 +22471,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/quote</code> shortcode for displaying a quotation.</p>

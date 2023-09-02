@@ -15,7 +15,7 @@
             <atom:link href="https://genmelhor.github.io/site/tags/email/index.xml" rel="self" type="application/rss+xml"/>
         
         
-            <copyright>© Will Faught</copyright>
+            <copyright>© GenMelhor</copyright>
         
         <description>email</description>
         
@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/email</code> shortcode that hides e-mail addresses from robots.</p>

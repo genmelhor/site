@@ -15,7 +15,7 @@
             <atom:link href="https://genmelhor.github.io/site/tags/quotations/index.xml" rel="self" type="application/rss+xml"/>
         
         
-            <copyright>© Will Faught</copyright>
+            <copyright>© GenMelhor</copyright>
         
         <description>quotations</description>
         
@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/quote</code> shortcode for displaying a quotation.</p>

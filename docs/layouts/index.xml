@@ -15,9 +15,9 @@
             <atom:link href="https://genmelhor.github.io/site/layouts/index.xml" rel="self" type="application/rss+xml"/>
         
         
-            <copyright>© Will Faught</copyright>
+            <copyright>© GenMelhor</copyright>
         
-        <description>Layouts</description>
+        <description>About US</description>
         
             <language>en</language>
         
@@ -25,7 +25,7 @@
         <link>https://genmelhor.github.io/site/layouts/</link>
         
         
-            <title>Layouts</title>
+            <title>About US</title>
         
         
         
@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/search</code> layout for site search.</p>

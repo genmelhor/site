@@ -1,7 +1,7 @@
 theme: paige
 baseurl: https://genmelhor.github.io/site/
 publishDir: "/docs"
-copyright: © Will Faught
+copyright: © GenMelhor
 enablerobotstxt: yes
 languagecode: en-us
 paginate: 50
@@ -15,37 +15,37 @@ languages:
           name: Home
           url: /
           weight: 10
-        - identifier: content
-          name: Content
+        - identifier: Members
+          name: Members
           url: /content/
           weight: 20
-        - identifier: layouts
-          name: Layouts
+        - identifier: About Us
+          name: About Us
           url: /layouts/
           weight: 30
-        - identifier: shortcodes
-          name: Shortcodes
-          url: /shortcodes/
+        - identifier: Events
+          name: Events
+          url: /tags/
           weight: 40
-        - identifier: customization
-          name: Customization
-          url: /customization/
+        - identifier: Services
+          name: Services
+          url: /shortcodes/
           weight: 50
-        - identifier: authors
-          name: Authors
-          url: /authors/
+        - identifier: Useful Links
+          name: Useful Links
+          url: /customization/
           weight: 60
-        - identifier: series
-          name: Series
+        - identifier: Publish
+          name: Publish
           url: /series/
           weight: 70
-        - identifier: categories
-          name: Categories
-          url: /categories/
+        - identifier: Gallery
+          name: Gallery
+          url: /authors/
           weight: 80
-        - identifier: tags
-          name: Tags
-          url: /tags/
+        - identifier: Contact Us
+          name: Contact Us
+          url: /categories/
           weight: 90
         - identifier: search
           name: Search

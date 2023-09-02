@@ -15,7 +15,7 @@
             <atom:link href="https://genmelhor.github.io/site/shortcodes/index.xml" rel="self" type="application/rss+xml"/>
         
         
-            <copyright>© Will Faught</copyright>
+            <copyright>© GenMelhor</copyright>
         
         <description>Shortcodes</description>
         
@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/code</code> shortcode for displaying code.</p>
@@ -285,7 +285,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/email</code> shortcode that hides e-mail addresses from robots.</p>
@@ -320,7 +320,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/figure</code> shortcode for displaying content.</p>
@@ -1972,7 +1972,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/gallery</code> shortcode for displaying a list of images.</p>
@@ -19508,7 +19508,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/icon</code> shortcode for displaying a web font icon.</p>
@@ -19573,7 +19573,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/image</code> shortcode for displaying an image.</p>
@@ -22571,7 +22571,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/quote</code> shortcode for displaying a quotation.</p>
@@ -22683,7 +22683,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/vimeo</code> shortcode for playing Vimeo videos.</p>
@@ -26056,7 +26056,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/youtube</code> shortcode for playing YouTube videos.</p>

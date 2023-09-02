@@ -15,7 +15,7 @@
             <atom:link href="https://genmelhor.github.io/site/tags/videos/index.xml" rel="self" type="application/rss+xml"/>
         
         
-            <copyright>© Will Faught</copyright>
+            <copyright>© GenMelhor</copyright>
         
         <description>videos</description>
         
@@ -37,7 +37,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/vimeo</code> shortcode for playing Vimeo videos.</p>
@@ -3410,7 +3410,7 @@
                         
                     
 
-                    <author>Will Faught</author>
+                    <author>GenMelhor</author>
                 
                 
                     <description><![CDATA[<p>Paige provides a <code>paige/youtube</code> shortcode for playing YouTube videos.</p>
