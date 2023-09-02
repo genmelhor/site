@@ -64,8 +64,7 @@ markup:
     startlevel: 2
 module:
   imports:
-    - path: /paige
-   # https://github.com/genmelhor/site/tree/main/themes/paige
+    - path: https://github.com/genmelhor/site/tree/main/themes/paige
 outputs:
   home:
     - html
