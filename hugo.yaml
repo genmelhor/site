@@ -64,7 +64,7 @@ markup:
     startlevel: 2
 module:
   imports:
-    - path: /paige
+    - path: https://github.com/genmelhor/site/tree/main/themes/paige
 outputs:
   home:
     - html
@@ -73,10 +73,10 @@ outputs:
 params:
   authors:
     will-faught:
-      name: Will Faught
+      name: GenMelhor
   paige:
     git:
-      commit_url: https://github.com/willfaught/paige/commit/%s
+      commit_url: https://github.com/genmelhor/site
 taxonomies:
   author: authors
   category: categories
