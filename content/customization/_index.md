@@ -1,60 +1,22 @@
 ---
-authors:
-- will-faught
-categories:
-- customization
-- paige
-description: Demonstrations of Paige customization.
-paige:
-  style: |
-    #paige-authors,
-    #paige-credit,
-    #paige-date,
-    #paige-keywords,
-    #paige-reading-time,
-    #paige-series,
-    #paige-toc,
-    .paige-authors,
-    .paige-date,
-    .paige-date-header,
-    .paige-keywords,
-    .paige-reading-time,
-    .paige-series,
-    .paige-summary {
-        display: block;
-    }
-series:
-- demo
-tags:
-- sections
-title: Customization
+description: Useful links to students
+title: Useful links
 ---
 
-This site hides some section page data by default. This page shows it all.
+### Aplicativos
 
-<!--more-->
+[GBOL](http://arquivo.ufv.br/dbg/gbol/gbol.htm "GBOL")
 
-## Parameters
+[Genes](http://arquivo.ufv.br/dbg/genes/genes.htm "Genes")
 
-This page has the following parameters:
+[RBIO](https://biometria.ufv.br/?informativos=software-rbio-download-e-citacao "RBIO")
 
-```yaml
-paige:
-  style: |
-    #paige-authors,
-    #paige-credit,
-    #paige-date,
-    #paige-keywords,
-    #paige-reading-time,
-    #paige-series,
-    #paige-toc,
-    .paige-authors,
-    .paige-date,
-    .paige-date-header,
-    .paige-keywords,
-    .paige-reading-time,
-    .paige-series,
-    .paige-summary {
-        display: block;
-    }
-```
+[GenomicLand](https://www.licae.ufv.br/genomicland/ "GenomicLand")
+
+[Selegen Reml/BLUP](https://biometria.ufv.br/infra-estrutura/ "Selegen Reml/BLUP")
+
+### Sites
+
+[PPGGM UFV](https://posgenetica.ufv.br/ "PPGGM UFV")
+
+[PPG UFV](https://ppg.ufv.br/ "PPG UFV")

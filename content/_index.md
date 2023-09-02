@@ -17,7 +17,7 @@ paige:
 title: GenMelhor
 ---
 
-<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://github.com/genmelhor/site/blob/main/resources/_gen/images/logo-genmelhor.jpg" width="100%" %}}</p>
+<p>{{% paige/image alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="https://yt3.googleusercontent.com/ytc/AOPolaRTB55_-5xlEGanrFn3ABzMEBLWS6mrR9MZ5KdD=s900-c-k-c0x00ffffff-no-rj" width="100%" %}}</p>
 
 <p class="display-5 fw-bold h2 text-center">
 
@@ -25,24 +25,16 @@ GenMelhor
 
 </p>
 
-::: container-fluid
-```         
-<div class="justify-content-center row">
-    <div class="col col-auto col-lg-7 px-0">
-        <p class="lead text-center">Grupo de Estudos em Genética e Melhoramento da Universidade Federal de Viçosa</p>
-    </div>
-</div>
-```
-:::
+
 
 <p class="text-center">
 
-<a class="lead" href="https://genmelhor.github.io/site/">[ ](#0)Share.</a>
+<a class="lead" href="https://genmelhor.github.io/site/">[ ](#0)Universidade Federal de Viçosa.</a>
 
 </p>
 
-::: {.column-gap-3 .d-flex .display-6 .justify-content-center .mb-3}
+
 ```         
 {{< paige/icon class="bi bi-github" name="GitHub" url="https://genmelhor.github.io/site/" >}}
 ```
-:::
+
