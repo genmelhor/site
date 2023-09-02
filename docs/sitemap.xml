@@ -2,173 +2,173 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/content/markdown-syntax/</loc>
+    <loc>https://genmelhor.github.io/site/content/markdown-syntax/</loc>
   </url><url>
-    <loc>https://example.com/customization/style/</loc>
+    <loc>https://genmelhor.github.io/site/customization/style/</loc>
     <lastmod>2023-01-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/layouts/cloud/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/cloud/</loc>
   </url><url>
-    <loc>https://example.com/content/rich-content/</loc>
+    <loc>https://genmelhor.github.io/site/content/rich-content/</loc>
   </url><url>
-    <loc>https://example.com/layouts/search/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/search/</loc>
   </url><url>
-    <loc>https://example.com/content/placeholder-text/</loc>
+    <loc>https://genmelhor.github.io/site/content/placeholder-text/</loc>
   </url><url>
-    <loc>https://example.com/content/math-typesetting/</loc>
+    <loc>https://genmelhor.github.io/site/content/math-typesetting/</loc>
   </url><url>
-    <loc>https://example.com/content/emoji-support/</loc>
+    <loc>https://genmelhor.github.io/site/content/emoji-support/</loc>
   </url><url>
-    <loc>https://example.com/content/simple-alert/</loc>
+    <loc>https://genmelhor.github.io/site/content/simple-alert/</loc>
   </url><url>
-    <loc>https://example.com/content/complex-alert/</loc>
+    <loc>https://genmelhor.github.io/site/content/complex-alert/</loc>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>https://genmelhor.github.io/site/authors/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://genmelhor.github.io/site/categories/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/customization/</loc>
+    <loc>https://genmelhor.github.io/site/categories/customization/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/customization/</loc>
+    <loc>https://genmelhor.github.io/site/customization/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/demo/</loc>
+    <loc>https://genmelhor.github.io/site/series/demo/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://genmelhor.github.io/site/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/paige/</loc>
+    <loc>https://genmelhor.github.io/site/categories/paige/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://genmelhor.github.io/site/series/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/show/</loc>
+    <loc>https://genmelhor.github.io/site/tags/show/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/customization/show/</loc>
+    <loc>https://genmelhor.github.io/site/customization/show/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/singles/</loc>
+    <loc>https://genmelhor.github.io/site/tags/singles/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://genmelhor.github.io/site/tags/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/authors/will-faught/</loc>
+    <loc>https://genmelhor.github.io/site/authors/will-faught/</loc>
     <lastmod>2023-02-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/style/</loc>
+    <loc>https://genmelhor.github.io/site/tags/style/</loc>
     <lastmod>2023-01-01T00:00:00-08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://genmelhor.github.io/site/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/plot/</loc>
+    <loc>https://genmelhor.github.io/site/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://genmelhor.github.io/site/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/r/</loc>
+    <loc>https://genmelhor.github.io/site/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/r-markdown/</loc>
+    <loc>https://genmelhor.github.io/site/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/regression/</loc>
+    <loc>https://genmelhor.github.io/site/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/alerts/</loc>
+    <loc>https://genmelhor.github.io/site/tags/alerts/</loc>
   </url><url>
-    <loc>https://example.com/layouts/cloud/apple/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/cloud/apple/</loc>
   </url><url>
-    <loc>https://example.com/layouts/cloud/banana/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/cloud/banana/</loc>
   </url><url>
-    <loc>https://example.com/layouts/cloud/cantaloupe/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/cloud/cantaloupe/</loc>
   </url><url>
-    <loc>https://example.com/tags/cloud/</loc>
+    <loc>https://genmelhor.github.io/site/tags/cloud/</loc>
   </url><url>
-    <loc>https://example.com/tags/code/</loc>
+    <loc>https://genmelhor.github.io/site/tags/code/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/code/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/code/</loc>
   </url><url>
-    <loc>https://example.com/categories/content/</loc>
+    <loc>https://genmelhor.github.io/site/categories/content/</loc>
   </url><url>
-    <loc>https://example.com/content/</loc>
+    <loc>https://genmelhor.github.io/site/content/</loc>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://genmelhor.github.io/site/tags/css/</loc>
   </url><url>
-    <loc>https://example.com/tags/email/</loc>
+    <loc>https://genmelhor.github.io/site/tags/email/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/email/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/email/</loc>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://genmelhor.github.io/site/tags/emoji/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/figure/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/figure/</loc>
   </url><url>
-    <loc>https://example.com/tags/figures/</loc>
+    <loc>https://genmelhor.github.io/site/tags/figures/</loc>
   </url><url>
-    <loc>https://example.com/tags/gallery/</loc>
+    <loc>https://genmelhor.github.io/site/tags/gallery/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/gallery/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/gallery/</loc>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://genmelhor.github.io/site/tags/html/</loc>
   </url><url>
-    <loc>https://example.com/tags/icon/</loc>
+    <loc>https://genmelhor.github.io/site/tags/icon/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/icon/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/icon/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/image/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/image/</loc>
   </url><url>
-    <loc>https://example.com/tags/images/</loc>
+    <loc>https://genmelhor.github.io/site/tags/images/</loc>
   </url><url>
-    <loc>https://example.com/tags/katex/</loc>
+    <loc>https://genmelhor.github.io/site/tags/katex/</loc>
   </url><url>
-    <loc>https://example.com/categories/layouts/</loc>
+    <loc>https://genmelhor.github.io/site/categories/layouts/</loc>
   </url><url>
-    <loc>https://example.com/layouts/</loc>
+    <loc>https://genmelhor.github.io/site/layouts/</loc>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://genmelhor.github.io/site/tags/markdown/</loc>
   </url><url>
-    <loc>https://example.com/tags/math/</loc>
+    <loc>https://genmelhor.github.io/site/tags/math/</loc>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://genmelhor.github.io/site/tags/privacy/</loc>
   </url><url>
-    <loc>https://example.com/tags/quotations/</loc>
+    <loc>https://genmelhor.github.io/site/tags/quotations/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/quote/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/quote/</loc>
   </url><url>
-    <loc>https://example.com/tags/search/</loc>
+    <loc>https://genmelhor.github.io/site/tags/search/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://genmelhor.github.io/site/search/</loc>
   </url><url>
-    <loc>https://example.com/tags/sections/</loc>
+    <loc>https://genmelhor.github.io/site/tags/sections/</loc>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://genmelhor.github.io/site/tags/shortcodes/</loc>
   </url><url>
-    <loc>https://example.com/categories/shortcodes/</loc>
+    <loc>https://genmelhor.github.io/site/categories/shortcodes/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/</loc>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://genmelhor.github.io/site/tags/text/</loc>
   </url><url>
-    <loc>https://example.com/tags/typesetting/</loc>
+    <loc>https://genmelhor.github.io/site/tags/typesetting/</loc>
   </url><url>
-    <loc>https://example.com/tags/videos/</loc>
+    <loc>https://genmelhor.github.io/site/tags/videos/</loc>
   </url><url>
-    <loc>https://example.com/tags/vimeo/</loc>
+    <loc>https://genmelhor.github.io/site/tags/vimeo/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/vimeo/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/vimeo/</loc>
   </url><url>
-    <loc>https://example.com/tags/web-font/</loc>
+    <loc>https://genmelhor.github.io/site/tags/web-font/</loc>
   </url><url>
-    <loc>https://example.com/tags/youtube/</loc>
+    <loc>https://genmelhor.github.io/site/tags/youtube/</loc>
   </url><url>
-    <loc>https://example.com/shortcodes/youtube/</loc>
+    <loc>https://genmelhor.github.io/site/shortcodes/youtube/</loc>
   </url>
 </urlset>

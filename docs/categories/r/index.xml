@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/categories/r/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/categories/r/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/categories/r/</link>
+        <link>https://genmelhor.github.io/site/categories/r/</link>
         
         
             <title>R</title>
@@ -68,7 +68,7 @@ pie(
   init.angle = -50, border = NA
 )</code></pre>
 <div class="figure"><span style="display:block;" id="fig:pie"></span>
-<img src="https://example.com/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<img src="https://genmelhor.github.io/site/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
 <p class="caption">
 Figure 1: A fancy pie chart.
 </p>
@@ -77,8 +77,8 @@ Figure 1: A fancy pie chart.
 ]]></description>
                 
                 
-                    <guid>https://example.com/post/2020-12-01-r-rmarkdown/</guid>
-                    <link>https://example.com/post/2020-12-01-r-rmarkdown/</link>
+                    <guid>https://genmelhor.github.io/site/post/2020-12-01-r-rmarkdown/</guid>
+                    <link>https://genmelhor.github.io/site/post/2020-12-01-r-rmarkdown/</link>
                 
                 
                     <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>

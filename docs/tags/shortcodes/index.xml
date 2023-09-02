@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/tags/shortcodes/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/tags/shortcodes/</link>
+        <link>https://genmelhor.github.io/site/tags/shortcodes/</link>
         
         
             <title>shortcodes</title>
@@ -137,8 +137,8 @@ SOFTWARE.
 <div class="play"><svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg></div></a></div>]]></description>
                 
                 
-                    <guid>https://example.com/content/rich-content/</guid>
-                    <link>https://example.com/content/rich-content/</link>
+                    <guid>https://genmelhor.github.io/site/content/rich-content/</guid>
+                    <link>https://genmelhor.github.io/site/content/rich-content/</link>
                 
                 
                 

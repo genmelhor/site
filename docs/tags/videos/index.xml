@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/videos/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/tags/videos/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/tags/videos/</link>
+        <link>https://genmelhor.github.io/site/tags/videos/</link>
         
         
             <title>videos</title>
@@ -3393,8 +3393,8 @@
 </div>]]></description>
                 
                 
-                    <guid>https://example.com/shortcodes/vimeo/</guid>
-                    <link>https://example.com/shortcodes/vimeo/</link>
+                    <guid>https://genmelhor.github.io/site/shortcodes/vimeo/</guid>
+                    <link>https://genmelhor.github.io/site/shortcodes/vimeo/</link>
                 
                 
                 
@@ -4888,8 +4888,8 @@
 </div>]]></description>
                 
                 
-                    <guid>https://example.com/shortcodes/youtube/</guid>
-                    <link>https://example.com/shortcodes/youtube/</link>
+                    <guid>https://genmelhor.github.io/site/shortcodes/youtube/</guid>
+                    <link>https://genmelhor.github.io/site/shortcodes/youtube/</link>
                 
                 
                 

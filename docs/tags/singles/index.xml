@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/singles/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/tags/singles/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/tags/singles/</link>
+        <link>https://genmelhor.github.io/site/tags/singles/</link>
         
         
             <title>singles</title>
@@ -81,8 +81,8 @@
 </span></span></span></code></pre></div>]]></description>
                 
                 
-                    <guid>https://example.com/customization/style/</guid>
-                    <link>https://example.com/customization/style/</link>
+                    <guid>https://genmelhor.github.io/site/customization/style/</guid>
+                    <link>https://genmelhor.github.io/site/customization/style/</link>
                 
                 
                     <pubDate>Sun, 01 Jan 2023 00:00:00 -0800</pubDate>
@@ -127,8 +127,8 @@
 </span></span></span></code></pre></div>]]></description>
                 
                 
-                    <guid>https://example.com/customization/show/</guid>
-                    <link>https://example.com/customization/show/</link>
+                    <guid>https://genmelhor.github.io/site/customization/show/</guid>
+                    <link>https://genmelhor.github.io/site/customization/show/</link>
                 
                 
                     <pubDate>Wed, 01 Feb 2023 00:00:00 -0800</pubDate>

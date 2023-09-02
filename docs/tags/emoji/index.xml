@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/emoji/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/tags/emoji/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/tags/emoji/</link>
+        <link>https://genmelhor.github.io/site/tags/emoji/</link>
         
         
             <title>emoji</title>
@@ -76,8 +76,8 @@ SOFTWARE.
 </span></span><span class="line"><span class="cl">}</span></span></code></pre></div>]]></description>
                 
                 
-                    <guid>https://example.com/content/emoji-support/</guid>
-                    <link>https://example.com/content/emoji-support/</link>
+                    <guid>https://genmelhor.github.io/site/content/emoji-support/</guid>
+                    <link>https://genmelhor.github.io/site/content/emoji-support/</link>
                 
                 
                 

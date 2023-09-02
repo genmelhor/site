@@ -1,5 +1,5 @@
 theme: paige
-baseurl: https://example.com
+baseurl: https://genmelhor.github.io/site/
 publishDir: "/docs"
 copyright: © Will Faught
 enablerobotstxt: yes
@@ -64,7 +64,7 @@ markup:
     startlevel: 2
 module:
   imports:
-    - path: github.com/willfaught/paige
+    - path: /paige
 outputs:
   home:
     - html

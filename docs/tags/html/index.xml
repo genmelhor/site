@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/html/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/tags/html/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/tags/html/</link>
+        <link>https://genmelhor.github.io/site/tags/html/</link>
         
         
             <title>html</title>
@@ -203,8 +203,8 @@ SOFTWARE.
 </div>]]></description>
                 
                 
-                    <guid>https://example.com/content/markdown-syntax/</guid>
-                    <link>https://example.com/content/markdown-syntax/</link>
+                    <guid>https://genmelhor.github.io/site/content/markdown-syntax/</guid>
+                    <link>https://genmelhor.github.io/site/content/markdown-syntax/</link>
                 
                 
                 

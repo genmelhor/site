@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/tags/web-font/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/tags/web-font/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/tags/web-font/</link>
+        <link>https://genmelhor.github.io/site/tags/web-font/</link>
         
         
             <title>web font</title>
@@ -85,8 +85,8 @@
 </p>]]></description>
                 
                 
-                    <guid>https://example.com/shortcodes/icon/</guid>
-                    <link>https://example.com/shortcodes/icon/</link>
+                    <guid>https://genmelhor.github.io/site/shortcodes/icon/</guid>
+                    <link>https://genmelhor.github.io/site/shortcodes/icon/</link>
                 
                 
                 

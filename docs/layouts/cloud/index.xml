@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="https://example.com/layouts/cloud/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://genmelhor.github.io/site/layouts/cloud/index.xml" rel="self" type="application/rss+xml"/>
         
         
             <copyright>© Will Faught</copyright>
@@ -22,7 +22,7 @@
             <language>en</language>
         
         
-        <link>https://example.com/layouts/cloud/</link>
+        <link>https://genmelhor.github.io/site/layouts/cloud/</link>
         
         
             <title>Cloud Layout</title>
@@ -33,8 +33,8 @@
                 
                 
                 
-                    <guid>https://example.com/layouts/cloud/apple/</guid>
-                    <link>https://example.com/layouts/cloud/apple/</link>
+                    <guid>https://genmelhor.github.io/site/layouts/cloud/apple/</guid>
+                    <link>https://genmelhor.github.io/site/layouts/cloud/apple/</link>
                 
                 
                 
@@ -46,8 +46,8 @@
                 
                 
                 
-                    <guid>https://example.com/layouts/cloud/banana/</guid>
-                    <link>https://example.com/layouts/cloud/banana/</link>
+                    <guid>https://genmelhor.github.io/site/layouts/cloud/banana/</guid>
+                    <link>https://genmelhor.github.io/site/layouts/cloud/banana/</link>
                 
                 
                 
@@ -59,8 +59,8 @@
                 
                 
                 
-                    <guid>https://example.com/layouts/cloud/cantaloupe/</guid>
-                    <link>https://example.com/layouts/cloud/cantaloupe/</link>
+                    <guid>https://genmelhor.github.io/site/layouts/cloud/cantaloupe/</guid>
+                    <link>https://genmelhor.github.io/site/layouts/cloud/cantaloupe/</link>
                 
                 
                 
