@@ -65,6 +65,7 @@ markup:
 module:
   imports:
     - path: https://github.com/genmelhor/site/tree/main/themes/paige
+    #/paige
 outputs:
   home:
     - html

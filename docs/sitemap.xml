@@ -2,54 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://genmelhor.github.io/site/customization/style/</loc>
-    <lastmod>2023-01-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/layouts/cloud/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/layouts/search/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/authors/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
     <loc>https://genmelhor.github.io/site/categories/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/categories/customization/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/series/demo/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/categories/paige/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/series/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/show/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/customization/show/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/singles/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://genmelhor.github.io/site/tags/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://genmelhor.github.io/site/customization/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/authors/will-faught/</loc>
-    <lastmod>2023-02-01T00:00:00-08:00</lastmod>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/style/</loc>
-    <lastmod>2023-01-01T00:00:00-08:00</lastmod>
+    <loc>https://genmelhor.github.io/site/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://genmelhor.github.io/site/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
@@ -71,24 +31,24 @@
   </url><url>
     <loc>https://genmelhor.github.io/site/layouts/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/layouts/cloud/apple/</loc>
+    <loc>https://genmelhor.github.io/site/authors/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/layouts/cloud/banana/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/layouts/cloud/cantaloupe/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/tags/cloud/</loc>
-  </url><url>
-    <loc>https://genmelhor.github.io/site/categories/layouts/</loc>
+    <loc>https://genmelhor.github.io/site/series/demo/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/content/</loc>
   </url><url>
-    <loc>https://genmelhor.github.io/site/tags/search/</loc>
+    <loc>https://genmelhor.github.io/site/categories/paige/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/search/</loc>
   </url><url>
     <loc>https://genmelhor.github.io/site/tags/sections/</loc>
   </url><url>
+    <loc>https://genmelhor.github.io/site/series/</loc>
+  </url><url>
     <loc>https://genmelhor.github.io/site/shortcodes/</loc>
+  </url><url>
+    <loc>https://genmelhor.github.io/site/customization/</loc>
+  </url><url>
+    <loc>https://genmelhor.github.io/site/authors/will-faught/</loc>
   </url>
 </urlset>
